@@ -63,7 +63,7 @@ class FloatingTypeTest {
     @SuppressWarnings("unused")
     private boolean isNan(double realNumber) {
         // TODO: please find the method that performs this operation.
-        return Double.isNaN(realNumber)
+        return Double.isNaN(realNumber);
     }
 
     @SuppressWarnings("unused")
