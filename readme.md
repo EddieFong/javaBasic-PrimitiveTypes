@@ -16,9 +16,17 @@ Each repository contains a gradle java project with a number of unit tests. The 
 The 4 questions are:
 
 1. What is the knowledge point of the test? Where is the offical document to the knowledge point?
+Java Primitive data ypes
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
 1. Why the test failed at first?
+No implemented code for test cse 
+
 1. Why you corrected the test that way?
+Follow the test case logic
+
 1. Do you have further questions on this knowledge point?
+No
 
 ## Example
 
